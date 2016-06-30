@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+# KNajblizszychSasiadow
+=======
+# EnsemblesOfClassifiers
+My implementation of ensembles of classifiers (bagging and boosting) based on k-nearest-neighbours as single classifier.
+>>>>>>> 9b7a82ee6b4b1610a7578a85eb7007c8a2640ac3
